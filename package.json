@@ -25,3 +25,6 @@
     "npm": "9"
   }
 }
+
+
+//"type": "module" Maybe i need it, maybe no.
